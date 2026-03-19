@@ -1,2 +1,8 @@
-git clone https://github.com/shihab97820/daily-commit.git
-cd daily-commit
+while true
+do
+  echo "Auto commit $(date)" >> log.txt
+  git add .
+  git commit -m "Auto commit"
+  git push
+  sleep 86400
+done
