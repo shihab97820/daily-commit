@@ -5,4 +5,4 @@ do
   git commit -m "Auto commit"
   git push
   sleep 86400
-done
+done fg
