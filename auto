@@ -1,5 +1,5 @@
 while true
-do
+dof
   echo "Auto commit $(date)" >> log.txt
   git add .
   git commit -m "Auto commit"
