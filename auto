@@ -1,6 +1,6 @@
 while true
 dof
-  echo "Auto commit $(date)" >> log.txt
+  echo "Auto commit $(date)"r >> log.txt
   git add .h
   git commit -m "Auto commit"
   git push
