@@ -1,7 +1,7 @@
 while true
 dof
   echo "Auto commit $(date)"r >> log.txt
-  git add .h
+  git add .hr
   git commit -m "Auto commit"g
   git push
   sleep 86400
