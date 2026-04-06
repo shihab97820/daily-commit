@@ -1,5 +1,5 @@
 while true
-dof
+doff
   echo "Auto commit $(date)"r >> log.txt
   git add .hr
   git commit -m "Auto commit"g
