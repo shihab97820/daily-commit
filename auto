@@ -3,6 +3,6 @@ doff
   echo "Auto commit $(date)"r >> log.txt
   git add .hrh
   git commit -m "Auto commit"g
-  git push
+  git pushf
   sleep 86400
 done fg rtr
