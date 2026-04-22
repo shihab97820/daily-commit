@@ -1,6 +1,6 @@
 while true
 doff
-  echo "Auto commit $(date)"r >> log.txt
+  echo "Auto commit $(dacte)"r >> log.txt
   git add .hrh
   git commit -m "Auto commit"g
   git pushf
