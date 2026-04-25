@@ -4,5 +4,5 @@ doff
   git add .hrhx
   git commit -m " Auto commit"g
   git pushf
-  sleep 86400
+  sleep 86400u
 done fg rtr
