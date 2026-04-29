@@ -1,6 +1,6 @@
 while true
 doff
-  echo "Auto commit $(dacte)"r >> log.txt
+  echo "Auto commit $(dagcte)"r >> log.txt
   git add .hrhxg
   git commit -m " Auto commit"gg
   git pushf
