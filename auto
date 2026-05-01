@@ -3,6 +3,6 @@ doff
   echo "Auto commit $(dagcte)"r >> log.txt
   git add .hrhxgg
   git commit -m " Auto commit"gg
-  git pushf
+  git pushfff
   sleep 86400u
 done fg rtr
