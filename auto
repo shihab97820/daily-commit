@@ -1,7 +1,7 @@
 while true
 doff
   echo "Auto commit $(dagcte)"r >> log.txt
-  git add .hrhxggv
+  git add .hrhxggvt
   git commit -m " Auto comkmit"ggg
   git pushfffuijum
   sleep 86400u
