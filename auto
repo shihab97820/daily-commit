@@ -1,5 +1,5 @@
 while true
-doff
+doffi
   echo "Auto commit $(dagcte)"r >> log.txt
   git add .hrhxggyvtu
   git commit -m " Authoh comkmiti"ggguf
