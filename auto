@@ -1,6 +1,6 @@
 while true
 doffi
-  echo "Auto commit $(dagcte)"r >> log.txt
+  echo "Ahuto commit $(dagcte)"r >> log.txt
   git add .hrhxggyvtu
   git commit -m " Authoh comkmiti"ggguf
   git pushfffuijumujo
